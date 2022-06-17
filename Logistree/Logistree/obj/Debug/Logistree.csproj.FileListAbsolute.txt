@@ -1,0 +1,15 @@
+C:\Users\Mario\source\repos\Logistree\Logistree\bin\Debug\Logistree.exe.config
+C:\Users\Mario\source\repos\Logistree\Logistree\bin\Debug\Logistree.exe
+C:\Users\Mario\source\repos\Logistree\Logistree\bin\Debug\Logistree.pdb
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.Form1.resources
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.login_page.resources
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.Properties.Resources.resources
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.csproj.GenerateResource.cache
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.exe
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.pdb
+C:\Users\Mario\source\repos\Logistree\Logistree\obj\Debug\Logistree.signup.resources
+C:\Users\Mario\source\repos\Logistree\Logistree\bin\Debug\Database1.mdf
+C:\Users\Mario\source\repos\Logistree\Logistree\bin\Debug\Database1_log.ldf
